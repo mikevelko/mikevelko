@@ -12,7 +12,7 @@
 </a>
 
 <br/>
-<br/>
+
 
 
 ## Main languages and tools:
@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+<br/>
 
 ## Languages and tools that I common with (from university or work...):
 <p align="center">
@@ -42,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+<br/>
 
 <a href="https://github.com/mikevelko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikevelko&theme=vue-dark&hide_langs_below=1" />
